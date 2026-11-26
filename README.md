@@ -219,13 +219,9 @@ dbt test
 
 ## 👨‍💻 Author
 
-**Avinash J. Patel**
+**Nidhi Jangde**
 
-B.E. Computer Engineering  
-L. J. University, Ahmedabad
 
-- GitHub: https://github.com/patel-avinash
-- LinkedIn: Avinash J Patel
 
 ## ⭐ Project Purpose
 
