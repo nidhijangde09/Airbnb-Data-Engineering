@@ -10,7 +10,7 @@ The project follows this data flow:
 
 Azure Blob Storage is used as the raw file landing area, while Snowflake is used as the cloud data warehouse. dbt is used for transformations and data modeling.
 
-## 🏗️ Architecture
+##  Architecture
 
 ```text
 Airbnb CSV Files
@@ -167,7 +167,7 @@ Create and configure your local dbt `profiles.yml` separately.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/patel-avinash/Airbnb.git
+https://github.com/nidhijangde09/Airbnb-Data-Engineering.git
 cd Airbnb
 ```
 
